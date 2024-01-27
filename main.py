@@ -1,3 +1,5 @@
+def vivamechmat():
+    print("Viva Mech-mat faculty")
 def hw():
     print("Hello, World")
 if name=="__main__":
